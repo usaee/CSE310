@@ -5,3 +5,10 @@ https://www.kaggle.com/datasets/gloriarc/fitbit-fitness-tracker-data-capstone-pr
 Purpose:
 To practice extracting meaningful data from a dataset.
 
+Video demonstration:
+<YouTube Link Goes Here>
+
+
+
+
+
