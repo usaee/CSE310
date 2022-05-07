@@ -39,6 +39,7 @@ result = stats.mode(best_days)
 print("This person tends to do the most walking on ({})".format(full_days[result]))
 
 # Part 2
+
 days_distance = data_set[['ActivityDay', 'VeryActiveDistance']]
 
 most = 0
