@@ -21,6 +21,7 @@ Question 1:
 Answer 1:
 * After analyzing the dataset it was found that the fitbit users tend to walk the farthest on Saturdays.
 
+
 Question 2:
 * Which day do the fitbit users tend to perform the most vigorus amount of exercise?
 
