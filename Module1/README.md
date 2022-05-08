@@ -9,7 +9,7 @@ LightActiveDistance, SedentaryActiveDistance, VeryActiveMinutes, FairlyActiveMin
 LightlyActiveMinutes, SedentaryMinutes, Calories.
 
 Purpose:
-To practice extracting meaningful data from a dataset in order to identify habits or tendencies.
+* To practice extracting meaningful data from a dataset in order to identify habits or tendencies.
 
 [Software Demo Video](https://youtu.be/ow5ptl7Ys_c)
 
