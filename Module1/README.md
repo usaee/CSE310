@@ -17,11 +17,13 @@ To practice extracting meaningful data from a dataset in order to identify habit
 
 Question 1:
 * Which day do the fitbit users tend to walk the farthest?
+
 Answer 1:
 * After analyzing the dataset it was found that the fitbit users tend to walk the farthest on Saturdays.
 
 Question 2:
 * Which day do the fitbit users tend to perform the most vigorus amount of exercise?
+
 Answer 2:
 * Results also showed that the fitbit users tend to perform the most vigorus exercises on Sundays.
 
