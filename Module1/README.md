@@ -23,7 +23,7 @@ Answer 1:
 Question 2:
 * Which day do the fitbit users tend to perform the most vigorus amount of exercise?
 Answer 2:
-*Results also showed that the fitbit users tend to perform the most vigorus exercises on Sundays.
+* Results also showed that the fitbit users tend to perform the most vigorus exercises on Sundays.
 
 # Development Environment
 
