@@ -1,30 +1,38 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 {Provide a description the software that you wrote to demonstrate the C++ language.}
+This project represents a very basic concept of an ATM machine.
+The user is able to create their own account, add funds, withdrawl funds, and get a balance inquiry.
 
 {Describe your purpose for writing this software.}
+The purpose of this software is to help me become more familiar and experienced with C++.
+I am learning how to use variables, expressions, conditionals, loops, functions, classes, and STL data structures.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+{#C Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
 {Describe the tools that you used to develop the software}
+Tools:
+* Microsoft Visual Studio 2022
+* C++ Programming Language
 
 {Describe the programming language that you used and any libraries.}
+The programming language used for this project is C++.
+For this project I am only using the standard C++ library.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [BogoToBogo](https://www.bogotobogo.com/cplusplus/libraries.php)
+* [w3schools](https://www.w3schools.com/CPP/default.asp)
+* [tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+{#G Make a list of things that you need to fix, improve, and add in the future.}
 * Item 1
 * Item 2
 * Item 3
