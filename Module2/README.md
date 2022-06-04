@@ -1,10 +1,8 @@
 # Overview
 
-{Provide a description the software that you wrote to demonstrate the C++ language.}
 This project represents a very basic concept of an ATM machine.
 The user is able to create their own account, add funds, withdrawl funds, and get a balance inquiry.
 
-{Describe your purpose for writing this software.}
 The purpose of this software is to help me become more familiar and experienced with C++.
 I am learning how to use variables, expressions, conditionals, loops, functions, classes, and STL data structures.
 
@@ -14,18 +12,14 @@ I am learning how to use variables, expressions, conditionals, loops, functions,
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
 Tools:
 * Microsoft Visual Studio 2022
 * C++ Programming Language
 
-{Describe the programming language that you used and any libraries.}
-The programming language used for this project is C++.
 For this project I am only using the standard C++ library.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [BogoToBogo](https://www.bogotobogo.com/cplusplus/libraries.php)
 * [w3schools](https://www.w3schools.com/CPP/default.asp)
 * [tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)
