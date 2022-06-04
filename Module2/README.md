@@ -6,9 +6,7 @@ The user is able to create their own account, add funds, withdrawl funds, and ge
 The purpose of this software is to help me become more familiar and experienced with C++.
 I am learning how to use variables, expressions, conditionals, loops, functions, classes, and STL data structures.
 
-{#C Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/FLlu-TMnpjw)
 
 # Development Environment
 
@@ -26,7 +24,4 @@ For this project I am only using the standard C++ library.
 
 # Future Work
 
-{#G Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Store account data in separate files and access them as needed.
