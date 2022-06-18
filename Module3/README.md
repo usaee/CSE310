@@ -6,8 +6,7 @@ enter the fields of the rows and columns of a table you wish to create, add, mod
 
 My purpose for writing this software is to familiarize myself with cloud databases and tools for interactive with them.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/hHs5CJGrcdM)
 
 # Cloud Database
 
