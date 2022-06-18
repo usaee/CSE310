@@ -1,6 +1,5 @@
 # Overview
 
-{Provide a description the software that you wrote and how it integrates with a Cloud Database.  Describe how to use your program.}
 This project uses Python to interact with a cloud database hosted by IBM through an api. To use this program, all you need to do is 
 enter the fields of the rows and columns of a table you wish to create, add, modify, or delete in the cloud database.
 
