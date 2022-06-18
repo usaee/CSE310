@@ -9,10 +9,8 @@ My purpose for writing this software is to familiarize myself with cloud databas
 
 # Cloud Database
 
-{Describe the cloud database you are using.}
-The cloud database I am using is used under a free subscription basis which allows access to ______ Gb of data storage.
+The cloud database I am using is used under a free subscription basis which allows access to 200 MB of data storage.
 
-{Describe the structure of the database that you created.}
 The structure of the created database is ...
 
 # Development Environment
