@@ -7,12 +7,12 @@ This app allows the user to create "to do" items as well as delete "to do" items
 
 In order to start the local server, open a command prompt window and enter the
 following commands:
-
-pipenv shell
-python manage.py runserver
+* pipenv shell
+* python manage.py runserver
 
 In order to access the web app, open a web browser and type in the following
-url: http://127.0.0.1:8000/todo/
+url:
+* http://127.0.0.1:8000/todo/
 
 My purpose for creating this project is to learn how to use Django for creating
 web apps using Python.
