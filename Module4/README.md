@@ -10,9 +10,13 @@ following commands:
 * pipenv shell
 * python manage.py runserver
 
-In order to access the web app, open a web browser and type in the following
+In order to access the "to do" list web app, open a web browser and type in the following
 url:
 * http://127.0.0.1:8000/todo/
+
+In order to access the "history" web app, open a web browser and type in the following
+url:
+* http://127.0.0.1:8000/history/
 
 My purpose for creating this project is to learn how to use Django for creating
 web apps using Python.
