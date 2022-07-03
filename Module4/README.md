@@ -1,10 +1,22 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+With this project I am attempting to further my learning as a software engineer by learning
+how to write web apps using Django and Python.
 
-{Provide a description the software that you wrote and how it integrates with a Cloud Database.  Describe how to use your program.}
+This web app allows a user to create a "to do" list using a local server.
+This app allows the user to create "to do" items as well as delete "to do" items.
 
-{Describe your purpose for writing this software.}
+In order to start the local server, open a command prompt window and enter the
+following commands:
+pipenv shell
+python manage.py runserver
+
+In order to access the web app, open a web browser and type in the following
+url: http://127.0.0.1:8000/todo/
+
+
+My purpose for creating this project is to learn how to use Django for creating
+web apps using Python.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
 
