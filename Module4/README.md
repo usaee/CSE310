@@ -34,7 +34,7 @@ web apps using Python.
 
 # Useful Websites
 
-* [Geeks for Geeks]([http://url.link.goes.here](https://www.geeksforgeeks.org/django-basics/))
+* [Geeks for Geeks](https://www.geeksforgeeks.org/django-basics/)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
