@@ -7,6 +7,7 @@ This app allows the user to create "to do" items as well as delete "to do" items
 
 In order to start the local server, open a command prompt window and enter the
 following commands:
+
 pipenv shell
 python manage.py runserver
 
