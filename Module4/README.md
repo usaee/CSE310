@@ -13,33 +13,28 @@ python manage.py runserver
 In order to access the web app, open a web browser and type in the following
 url: http://127.0.0.1:8000/todo/
 
-
 My purpose for creating this project is to learn how to use Django for creating
 web apps using Python.
 
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/soWiWdl4HB0)
 
 # Web Pages
 
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
+* For the first page I created a "todo" page which is where the user is able to add or remove items from the displayed list.
+* For the second page I created a "history" page which is where the user is able to see every item that was ever added to the "to do" list regardless of
+  whether it was removed from the "to do" list or not.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the Django python library to build this project.
 
-{Describe the programming language that you used and any libraries.}
+The programming language used for this project was Python.
 
 # Useful Websites
 
 * [Geeks for Geeks](https://www.geeksforgeeks.org/django-basics/)
-* [Web Site Name](http://url.link.goes.here)
+* [Django Project](https://docs.djangoproject.com/en/4.0/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add a feature that allows the user to add a time for tasks to be completed by.
