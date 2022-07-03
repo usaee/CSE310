@@ -1,0 +1,22 @@
+<h1>List History</h1>
+
+<ul>
+	{% for todo_item in all_hist_items %}
+	<li>{{ todo_item.hist_content}}</li>
+		<form action="/addTodo/{{todo_item.id}}" style="display: inline;" method="post">{% csrf_token %}
+		</form>
+	</li>
+	{% endfor %}
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
