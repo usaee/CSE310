@@ -24,5 +24,4 @@ library in order to take user inputs.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Allow for multiple user accounts.
