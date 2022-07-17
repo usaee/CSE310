@@ -47,7 +47,7 @@ public class Main {
                         System.out.println("\nGoodbye.\n");
                         System.exit(0);
                 }
-      }
             }
+        }
     }
 }
