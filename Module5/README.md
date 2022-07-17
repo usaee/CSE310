@@ -1,6 +1,5 @@
 # Overview
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
 This Java project is designed to simulate an ATM machine. The user is able to simulate functions such
 as withdrawing and depositing funds. The user is also able to check the balance of their simulated account.
 
